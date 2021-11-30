@@ -42,6 +42,6 @@ SO THAT I can organize and plan my business
 9. run through prompts as required 
 
 ## Repository
-- [Project Repo]
+- [Project Repo]: https://github.com/chen199932/12-SQL--Employee-Tracker
 
 ## Contributions
